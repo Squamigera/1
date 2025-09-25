@@ -1,0 +1,13 @@
+H:\ПДЭ\ПДЭ\bin\Debug\ПДЭ.exe.config
+H:\ПДЭ\ПДЭ\bin\Debug\ПДЭ.exe
+H:\ПДЭ\ПДЭ\bin\Debug\ПДЭ.pdb
+H:\ПДЭ\ПДЭ\obj\Debug\ПДЭ.csproj.AssemblyReference.cache
+H:\ПДЭ\ПДЭ\obj\Debug\ПДЭ.LoginForm.resources
+H:\ПДЭ\ПДЭ\obj\Debug\ПДЭ.PartnerEditForm.resources
+H:\ПДЭ\ПДЭ\obj\Debug\ПДЭ.PartnersListForm.resources
+H:\ПДЭ\ПДЭ\obj\Debug\ПДЭ.Properties.Resources.resources
+H:\ПДЭ\ПДЭ\obj\Debug\ПДЭ.ServiceHistoryForm.resources
+H:\ПДЭ\ПДЭ\obj\Debug\ПДЭ.csproj.GenerateResource.cache
+H:\ПДЭ\ПДЭ\obj\Debug\ПДЭ.csproj.CoreCompileInputs.cache
+H:\ПДЭ\ПДЭ\obj\Debug\ПДЭ.exe
+H:\ПДЭ\ПДЭ\obj\Debug\ПДЭ.pdb
